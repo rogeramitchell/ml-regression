@@ -1,0 +1,11 @@
+## Coursework for Machine Learning Regression course
+This repository contains the relevant iPython notebooks and data for the [Machine Learning Regression](https://www.coursera.org/learn/ml-regression) coursera offered by University of Washington.
+
+The course is broken into 6 weeks, and focuses on the following topics.
+
+* Simple Linear Regression
+* Multiple Regression
+* Assessing Performance of Algorithms
+* Ridge Regression
+* Feature Selection & LASSO
+* Nearest Neighbors & Kernel Regression
